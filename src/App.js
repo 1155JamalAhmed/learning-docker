@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Added a new line
+          Edit <code>src/App.js</code> and save to reload. Added a new line this is very nice now i will get conflicts
         </p>
         <a
           className="App-link"
