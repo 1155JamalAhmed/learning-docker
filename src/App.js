@@ -17,6 +17,14 @@ function App() {
         >
         {/* learn react */} I am nice I am here asd asdas d aSDA SD
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        M1 tag
+        </a>
       </header>
     </div>
   );
