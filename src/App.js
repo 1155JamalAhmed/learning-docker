@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        learn react  as
+        learn react as adas dasd asdas das asd as 
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        {/* learn react */} I am nice I am here now i am here in the feat branch
+        {/* learn react */} I am nice I am here now i am here in the feat branch asdasdsad sdasdasgd jkasb djk asd asdas 
         </a>
       </header>
     </div>
