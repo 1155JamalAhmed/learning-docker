@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I don't know how to handle this 
+        learn react  as
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created conflicts here asdasda kdaslj dlaj
+        {/* learn react */} I am nice
         </a>
       </header>
     </div>
